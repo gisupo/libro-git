@@ -1,3 +1,4 @@
 "Capitulo 1: Introducción a Git" 
 "Capitulo 2: Flujo de trabajo Básico" 
-"Capitulo 3: Repositorios remotos" 
+"capitulo 3: Gestión de rama"
+"Capitulo 4: Repositorios remotos" 
