@@ -1,0 +1,11 @@
+# Ignorar archivos que comiencen con "dam"
+dam*
+
+# Ignorar archivos con extensión .out
+*.out
+
+# Ignorar imágenes en formatos jpg, png, bmp y gif
+*.jpg
+*.png
+*.bmp
+*.gif
